@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a783de42-8ed6-4313-bbb3-d9cc66e46b3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/front/laradock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/laradock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/laradock/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/front/laradock/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/laradock/nginx/sites/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/front/laradock/nginx/sites/default.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order/laradock/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order/laradock/docker-compose.yml" afterDir="false" />
@@ -34,7 +37,7 @@
           <entry key="example" value="2" />
           <entry key="json" value="2" />
           <entry key="laradock" value="1" />
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
           <entry key="php" value="6" />
           <entry key="sh" value="1" />
           <entry key="think" value="1" />
@@ -45,7 +48,7 @@
         <counts>
           <entry key="Dockerfile" value="5" />
           <entry key="JSON" value="2" />
-          <entry key="Markdown" value="1" />
+          <entry key="Markdown" value="2" />
           <entry key="PHP" value="7" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="SmartyConfig" value="6" />
@@ -56,12 +59,14 @@
         <counts>
           <entry key="conf" value="15" />
           <entry key="env" value="21" />
+          <entry key="md" value="39" />
           <entry key="php" value="25" />
           <entry key="yml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="Markdown" value="39" />
           <entry key="PHP" value="25" />
           <entry key="PLAIN_TEXT" value="21" />
           <entry key="SmartyConfig" value="15" />
@@ -71,7 +76,20 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="108">
+                <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -88,7 +106,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/order/laradock" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -102,6 +120,7 @@
         <option value="$PROJECT_DIR$/order/laradock/.env" />
         <option value="$PROJECT_DIR$/order/application/index/controller/Index.php" />
         <option value="$PROJECT_DIR$/order/laradock/nginx/sites/default.conf" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -154,6 +173,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../GeekSeeker" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -185,12 +205,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534902417638</updated>
       <workItem from="1534902418830" duration="4362000" />
-      <workItem from="1534918621646" duration="2948000" />
+      <workItem from="1534918621646" duration="3350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7310000" />
+    <option name="totallyTimeSpent" value="7712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="-8" width="1858" height="1096" extended-state="6" />
@@ -221,6 +241,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/laradock" />
+      <path value="$PROJECT_DIR$/shop" />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/front/think">
@@ -349,6 +375,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
